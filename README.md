@@ -54,7 +54,7 @@ The HealthCare DBMS provides an intuitive user interface for managing healthcare
 For detailed usage instructions, please refer to the user manual provided with the application.
 
 ## 5. Database Schema
-The database schema used in the application includes tables for patients, appointments, medical records, billing, inventory, and user accounts. You can find the database schema in the `schema.sql` file within the project.
+The database schema used in the application includes tables for patients, appointments, medical records, billing, inventory, and user accounts. You can find the database schema in the `Healthcare.7z` zip folder within the project.
 
 
 
