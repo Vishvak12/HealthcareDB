@@ -7,7 +7,7 @@
 4. [Usage](#usage)
 5. [Database Schema](#database-schema)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## 1. Introduction
 The HealthCare Database Management System (DBMS) is a Java-based application for managing healthcare-related data. This system is designed to help healthcare facilities, hospitals, and clinics efficiently store, retrieve, and manage patient information, medical records, and other relevant data. The DBMS utilizes Java for its user interface and SQL for data storage and retrieval.
@@ -56,12 +56,6 @@ For detailed usage instructions, please refer to the user manual provided with t
 ## 5. Database Schema
 The database schema used in the application includes tables for patients, appointments, medical records, billing, inventory, and user accounts. You can find the database schema in the `schema.sql` file within the project.
 
-## 6. Contributing
-Contributions to the HealthCare DBMS are welcome. If you'd like to contribute to the project, please follow these guidelines:
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Implement your changes.
-- Submit a pull request with a clear description of the changes.
 
 
 
